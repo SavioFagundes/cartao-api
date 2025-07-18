@@ -1,0 +1,68 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider IDE
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## DotNet environment
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Entity Framework
+Migrations/
+
+## Logs
+*.log
+
+## Configs (optional, se quiser manter secrets fora do Git)
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## dotnet watch
+**/node_modules/
+**/dist/
+**/bower_components/
+
+## npm / frontend (se houver Angular ou outro no projeto)
+node_modules/
+wwwroot/lib/
+.env
+
+## Mac/Linux
+.DS_Store
+*.swp
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testresults
+
+## Global JetBrains Rider settings
+.idea/
+
+## Other
+_ReSharper*/
+*.vs/

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcLy86Lp7GE=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\Cartao\\Cartao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@Cartao_HostAddress = http://localhost:5161
+
+GET {{Cartao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
