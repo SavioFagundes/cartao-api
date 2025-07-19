@@ -20,7 +20,7 @@ namespace Cartao.Models
         [Required]
         public decimal Saldo { get; set; } = 0;
         [Required]
-        public bool Ativo { get; set; } = true;
+        public bool Ativa { get; set; } = true;
         public DateTime DataCriacao { get; set; } = DateTime.Now;
         public virtual ICollection<CartaoAtm> Cartoes { get; set; } = new List<CartaoAtm>();
         public virtual ICollection<Transacao> Transacoes { get; set; } = new List<Transacao>();

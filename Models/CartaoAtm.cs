@@ -11,7 +11,7 @@ namespace Cartao.Models
         public string NumeroCartao { get; set; } = string.Empty;
         [Required]
         [StringLength(4, MinimumLength = 4)]
-        public int Senha { get; set; }
+        public string Senha { get; set; }
         [Required]
         public DateTime DataVencimento { get; set; }
         [Required]

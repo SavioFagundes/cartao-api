@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cartao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1391458270f2dd9a09c3279a7f252438faefde28")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cartao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cartao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
